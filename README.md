@@ -1,4 +1,4 @@
-Exercises to learn regular expressions.
+Exercises to learn unit test.
 
 ## Installation
 
